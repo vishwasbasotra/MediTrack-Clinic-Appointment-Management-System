@@ -1,4 +1,4 @@
 package com.airtribe.meditrack.interfaces;
 
-public class Searchable {
+public interface Searchable {
 }
